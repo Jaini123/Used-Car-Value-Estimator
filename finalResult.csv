@@ -1,0 +1,5 @@
+Model,r,R,RMSE,Acc,TimeTaken
+"decisionTree",0,0,7745.42,9.07,0.92
+"linearModel",0.2,0.04,4690.25,13.74,0.36
+"neuralNetwork",0.04,0,5536.44,17.71,1.39
+"randomForest",0.04,0,4167.5,46.01,646.68
